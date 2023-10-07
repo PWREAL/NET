@@ -1,2 +1,5 @@
 # NET
-THE HACK NET / JOIND DISCORD https://discord.gg/Gb3kakzE6N
+Name "test"
+Adresse Ip "ip"
+
+Loadinge ⚙️
